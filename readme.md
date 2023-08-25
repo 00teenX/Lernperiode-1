@@ -6,16 +6,15 @@ Erjon Hulaj
 
 ## Leit-Satz
 
-Ich möchte mich mehr mit C# auseinandersetzen und einfache Übungen machen können und verschiedene eigene Programme erstellen die dem Benutzer helfen können.
+Ich möchte weiter an den Modulen 319 und 413 arbeiten.
 
-## Arbeitspakete für 25.08.2023
+## Arbeitspakete für 01.09.2023
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
-- [ ] Ein Programm, welches dem Benutzer alle wichtigen Mails ausfiltert.
-- [ ] Ein Programm, welches alle wichtigen Websites öffnet die der Benutzer für den Tag braucht.
-- [ ] Ein Programm, welches dem Benutzer sagt wann es Zeit für eine Pause ist.
+- [ ] 3 Aufträge von 413 erledigen
+- [ ] 2 Aufträge von 319 erledigen
+- [ ] Etwas selber erstellen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
