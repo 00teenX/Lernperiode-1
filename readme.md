@@ -16,12 +16,6 @@ Ich möchte weiter an den Modulen 319 und 413 arbeiten.
 - [ ] 2 Aufträge von 319 erledigen
 - [ ] Etwas selber erstellen
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Ich habe keines geschafft. Ich habe überschätzt was ich schaffen kann. Ich konnte nur 2 Aufträge von 413 erledigen und eines von 319. Für nächstes mal setze ich realistischere Ziele und gehe Organisierter vor. Bei 413 1707 war ich lange dran, da ich nicht verstanden habe wie ich den Auftrag erledigen muss. Ich habe keine Hilfe gesucht und ich denke das war das Problem.
