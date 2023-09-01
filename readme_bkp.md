@@ -8,7 +8,7 @@ Leit-Satz
 
 Ich möchte weiter an den Modulen 319 und 413 arbeiten.
 
-## Arbeitspakete für 01.09.2023
+## Arbeitspakete für 15.09.2023
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
