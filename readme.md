@@ -25,6 +25,16 @@ Ich habe keines geschafft. Ich habe überschätzt was ich schaffen kann. Ich kon
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
+- [x] 1 Aufträge von 413 erledigen
+- [x] 2 Aufträge von 319 erledigen
+- [x] Mich verbessern mit Visual Studio
+
+Ich bin gut vorangekommen. Besser als letztes Mal. Ich muss aber schneller sein, wenn ich alle Aufträge erledigen will. Entweder arbeite ich auch in der Freizeit daran, oder ich arbeite schneller in den Stunden. Das Problem bei mir ist das Modul 319. Ich brauche manchmal zu lange, bis ich verstehe, wie die Aufgabe gelöst werden muss. Es erfordert mehr Zeit und Anstrengung, aber ich bin entschlossen, mich zu verbessern und die Herausforderung anzunehmen. (55 Wörter)
+
+## Arbeitspakete für 22.09.2023
+
+✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+
 - [ ] 1 Aufträge von 413 erledigen
 - [ ] 2 Aufträge von 319 erledigen
-- [ ] Mich verbessern mit Visual Studio
+- [ ] Schneller an den Aufträgen arbeiten
