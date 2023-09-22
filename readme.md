@@ -38,3 +38,11 @@ Ich bin gut vorangekommen. Besser als letztes Mal. Ich muss aber schneller sein,
 - [ ] 1 Auftrag von 413 erledigen
 - [ ] 2 Aufträge von 319 erledigen
 - [ ] An meinem Notenzähler arbeiten
+
+Reflexion 1. Lernperiode
+
+In den letzten Wochen habe ich intensiv an meinen Zielen und Arbeitspaketen gearbeitet und dabei gelernt, wie wichtig es ist, realistische Erwartungen zu haben und meine Arbeitsweise zu verbessern. Am 01.09.2023 habe ich gemerkt, dass ich mir zu viele Aufträge vorgenommen hatte und meine eigenen Erwartungen überschätzt hatte. Für die Zukunft habe ich mir vorgenommen, realistischere Ziele zu setzen und mich besser zu organisieren.
+
+Am 15.09.2023 konnte ich bereits eine deutliche Verbesserung meiner Arbeitsweise feststellen und mehr Arbeitspakete erfolgreich erledigen. Es ist mir aber bewusst, dass ich schneller arbeiten muss, um alle Aufträge rechtzeitig abzuschließen. Besonders das Modul 319 bereitet mir manchmal Schwierigkeiten, da ich länger brauche, um die Aufträge zu verstehen. Doch ich sehe diese Herausforderung als Chance zur Weiterentwicklung und bin entschlossen, mich zu verbessern.
+
+Heute, am 22.09.2023, habe ich erneut Ziele gesetzt und werde mich darauf konzentrieren, diese erfolgreich abzuschließen. In Zukunft will ich auch an meinem Notenzähler arbeiten, um langfristige Fortschritte zu erzielen und zu lernen. Insgesamt bin ich optimistisch, dass ich meine Ziele erreichen kann, solange ich an meiner Arbeitsweise arbeite, realistische Erwartungen setze und mich den Herausforderungen stelle. [184 Wörter]
