@@ -35,6 +35,6 @@ Ich bin gut vorangekommen. Besser als letztes Mal. Ich muss aber schneller sein,
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] 1 Aufträge von 413 erledigen
+- [ ] 1 Auftrag von 413 erledigen
 - [ ] 2 Aufträge von 319 erledigen
-- [ ] Schneller an den Aufträgen arbeiten
+- [ ] An meinem Notenzähler arbeiten
