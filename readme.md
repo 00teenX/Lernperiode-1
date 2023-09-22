@@ -39,7 +39,7 @@ Ich bin gut vorangekommen. Besser als letztes Mal. Ich muss aber schneller sein,
 - [ ] 2 Aufträge von 319 erledigen
 - [ ] An meinem Notenzähler arbeiten
 
-##Reflexion 1. Lernperiode
+## Reflexion 1. Lernperiode
 
 In den letzten Wochen habe ich intensiv an meinen Zielen und Arbeitspaketen gearbeitet und dabei gelernt, wie wichtig es ist, realistische Erwartungen zu haben und meine Arbeitsweise zu verbessern. Am 01.09.2023 habe ich gemerkt, dass ich mir zu viele Aufträge vorgenommen hatte und meine eigenen Erwartungen überschätzt hatte. Für die Zukunft habe ich mir vorgenommen, realistischere Ziele zu setzen und mich besser zu organisieren.
 
